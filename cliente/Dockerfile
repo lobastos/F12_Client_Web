@@ -1,5 +1,5 @@
 FROM node:lts-alpine as build-stage
-RUN npm install -g @vue/cli
+RUN npm install -g @vue/cli -D sass-loader sass
 WORKDIR /app
 EXPOSE 3000
 USER node
