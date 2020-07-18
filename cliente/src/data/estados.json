@@ -1,0 +1,138 @@
+[
+    {
+        "UF":"AC",
+        "nome":"Acre",
+        "cUF":"12"
+    },
+    {
+        "UF":"AL",
+        "nome":"Alagoas",
+        "cUF":"27"
+    },
+    {
+        "UF":"AP",
+        "nome":"Amapá",
+        "cUF":"16"
+    },
+    {
+        "UF":"AM",
+        "nome":"Amazonas",
+        "cUF":"13"
+    },
+    {
+        "UF":"BA",
+        "nome":"Bahia",
+        "cUF":"29"
+    },
+    {
+        "UF":"CE",
+        "nome":"Ceará",
+        "cUF":"23"
+    },
+    {
+        "UF":"DF",
+        "nome":"Distrito Federal",
+        "cUF":"53"
+    },
+    {
+        "UF":"ES",
+        "nome":"Espírito Santo",
+        "cUF":"32"
+    },
+    {
+        "UF":"GO",
+        "nome":"Goiás",
+        "cUF":"52"
+    },
+    {
+        "UF":"MA",
+        "nome":"Maranhão",
+        "cUF":"21"
+    },
+    {
+        "UF":"MT",
+        "nome":"Mato Grosso",
+        "cUF":"51"
+    },
+    {
+        "UF":"MS",
+        "nome":"Mato Grosso do Sul",
+        "cUF":"50"
+    },
+    {
+        "UF":"MG",
+        "nome":"Minas Gerais",
+        "cUF":"31"
+    },
+    {
+        "UF":"PA",
+        "nome":"Pará",
+        "cUF":"15"
+    },
+    {
+        "UF":"PB",
+        "nome":"Paraíba",
+        "cUF":"25"
+    },
+    {
+        "UF":"PR",
+        "nome":"Paraná",
+        "cUF":"41"
+
+    },
+    {
+        "UF":"PE",
+        "nome":"Pernambuco",
+        "cUF":"26"
+    },
+    {
+        "UF":"PI",
+        "nome":"Piauí",
+        "cUF":"22"
+    },
+    {
+        "UF":"RJ",
+        "nome":"Rio de Janeiro",
+        "cUF":"33"
+    },
+    {
+        "UF":"RN",
+        "nome":"Rio Grande do Norte",
+        "cUF":"24"
+    },
+    {
+        "UF":"RS",
+        "nome":"Rio Grande do Sul",
+        "cUF":"43"
+    },
+    {
+        "UF":"RO",
+        "nome":"Rondônia",
+        "cUF":"11"
+    },
+    {
+        "UF":"RR",
+        "nome":"Roraima",
+        "cUF":"14"
+    },
+    {
+        "UF":"SC",
+        "nome":"Santa Catarina",
+        "cUF":"42"
+    },
+    {
+        "UF":"SP",
+        "nome":"Sáo Paulo",
+        "cUF":"35"
+    },
+    {
+        "UF":"SE",
+        "nome":"Sergipe",
+        "cUF":"28"
+    },
+    {
+        "UF":"TO",
+        "nome":"Tocantins",
+        "cUF":"17"
+    }
+]

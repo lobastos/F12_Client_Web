@@ -6,6 +6,7 @@
         <router-link to="representantes" class="btn-danger">Representantes</router-link>
         <router-link to="clientes" class="btn-warning">Clientes</router-link>
         <router-link to="about" class="btn-info">Sobre</router-link>
+        <router-link to="css-scss" class="btn-info">SCSS Exemplos</router-link>
     </div>
 </template>
 

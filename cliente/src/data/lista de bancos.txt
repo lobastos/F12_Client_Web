@@ -1,0 +1,216 @@
+CÓDIGO BANCO    CÓDIGO ISPB
+1	Banco Do Brasil S.A (Bb)	0
+237	Bradesco S.A	60746948
+335	Banco Digio S.A	27098060
+260	Nu Pagamentos S.A (Nubank)	18236120
+290	Pagseguro Internet S.A	8561701
+323	Mercado Pago – Conta Do Mercado Livre	10573521
+237	Next Bank (Mesmo Código Do Bradesco)	60746948
+637	Banco Sofisa S.A (Sofisa Direto)	60889128
+77	Banco Inter S.A	416968
+341	Itaú Unibanco S.A	60701190
+104	Caixa Econômica Federal (Cef)	360305
+33	Banco Santander Brasil S.A	90400888
+212	Banco Original S.A	92894922
+756	Bancoob (Banco Cooperativo Do Brasil)	2038232
+655	Banco Votorantim S.A	59588111
+655	Neon Pagamentos S.A (Memso Código Do Banco Votorantim)	59588111
+41	Banrisul – Banco Do Estado Do Rio Grande Do Sul S.A	92702067
+389	Banco Mercantil Do Brasil S.A	17184037
+422	Banco Safra S.A	58160789
+70	Banco De Brasília (Brb)	208
+136	Unicred Cooperativa	315557
+741	Banco Ribeirão Preto	517645
+739	Banco Cetelem S.A	558456
+743	Banco Semear S.A	795423
+100	Planner Corretora De Valores S.A	806535
+96	Banco B3 S.A	997185
+747	Banco Rabobank Internacional Do Brasil S.A	1023570
+748	Sicredi S.A	1181521
+752	Bnp Paribas Brasil S.A	1522368
+91	Unicred Central Rs	1634601
+399	Kirton Bank	1701201
+108	Portocred S.A	1800019
+757	Banco Keb Hana Do Brasil S.A	2318507
+102	Xp Investimentos S.A	2332886
+348	Banco Xp S/A	33264668
+340	Super Pagamentos S/A (Superdital)	9554480
+84	Uniprime Norte Do Paraná	2398976
+180	Cm Capital Markets Cctvm Ltda	2685483
+66	Banco Morgan Stanley S.A	2801938
+15	Ubs Brasil Cctvm S.A	2819125
+143	Treviso Cc S.A	2992317
+62	Hipercard Bm S.A	3012230
+74	Bco. J.Safra S.A	3017677
+99	Uniprime Central Ccc Ltda	3046391
+25	Banco Alfa S.A.	3323840
+75	Bco Abn Amro S.A	3532415
+40	Banco Cargill S.A	3609817
+190	Servicoop	3973814
+63	Banco Bradescard	4184779
+191	Nova Futura Ctvm Ltda	4257795
+64	Goldman Sachs Do Brasil Bm S.A	4332281
+97	Ccc Noroeste Brasileiro Ltda	4632856
+16	Ccm Desp Trâns Sc E Rs	4715685
+12	Banco Inbursa	4866275
+3	Banco Da Amazonia S.A	4902979
+60	Confidence Cc S.A	4913129
+37	Banco Do Estado Do Pará S.A	4913711
+159	Casa Credito S.A	5442029
+172	Albatross Ccv S.A	5452073
+85	Coop Central Ailos	5463212
+114	Central Cooperativa De Crédito No Estado Do Espírito Santo	5790149
+36	Banco Bbi S.A	6271464
+394	Banco Bradesco Financiamentos S.A	7207996
+4	Banco Do Nordeste Do Brasil S.A.	7237373
+320	Banco Ccb Brasil S.A	7450604
+189	Hs Financeira	7512441
+105	Lecca Cfi S.A	7652226
+76	Banco Kdb Brasil S.A.	7656500
+82	Banco Topázio S.A	7679404
+286	Ccr De Ouro	7853842
+93	Pólocred Scmepp Ltda	7945233
+273	Ccr De São Miguel Do Oeste	8253539
+157	Icap Do Brasil Ctvm Ltda	9105360
+183	Socred S.A	9210106
+14	Natixis Brasil S.A	9274232
+130	Caruana Scfi	9313766
+127	Codepe Cvc S.A	9512542
+79	Banco Original Do Agronegócio S.A	9516419
+81	Bbn Banco Brasileiro De Negocios S.A	10264663
+118	Standard Chartered Bi S.A	11932017
+133	Cresol Confederação	10398952
+121	Banco Agibank S.A	10664513
+83	Banco Da China Brasil S.A	10690848
+138	Get Money Cc Ltda	10853017
+24	Bco Bandepe S.A	10866788
+95	Banco Confidence De Câmbio S.A	11703662
+94	Banco Finaxis	11758741
+276	Senff S.A	11970623
+137	Multimoney Cc Ltda	12586596
+92	Brk S.A	12865507
+47	Banco Bco Do Estado De Sergipe S.A	13009717
+144	Bexs Banco De Cambio S.A.	13059145
+126	Br Partners Bi	13220493
+301	Bpp Instituição De Pagamentos S.A	13370835
+173	Brl Trust Dtvm Sa	13486793
+119	Banco Western Union	13720915
+254	Parana Banco S.A	14388334
+268	Barigui Ch	14511781
+107	Banco Bocom Bbm S.A	15114366
+412	Banco Capital S.A	15173776
+124	Banco Woori Bank Do Brasil S.A	15357060
+149	Facta S.A. Cfi	15581638
+197	Stone Pagamentos S.A	16501555
+142	Broker Brasil Cc Ltda	16944141
+389	Banco Mercantil Do Brasil S.A.	17184037
+184	Banco Itaú Bba S.A	17298092
+634	Banco Triangulo S.A (Banco Triângulo)	17351180
+545	Senso Ccvm S.A	17352220
+132	Icbc Do Brasil Bm S.A	17453575
+298	Vips Cc Ltda	17772370
+129	Ubs Brasil Bi S.A	18520834
+128	Ms Bank S.A Banco De Câmbio	19307785
+194	Parmetal Dtvm Ltda	20155248
+310	Vortx Dtvm Ltda	22610500
+163	Commerzbank Brasil S.A Banco Múltiplo	23522214
+280	Avista S.A	23862762
+146	Guitta Cc Ltda	24074692
+279	Ccr De Primavera Do Leste	26563270
+182	Dacasa Financeira S/A	27406222
+278	Genial Investimentos Cvm S.A	27652684
+271	Ib Cctvm Ltda	27842177
+21	Banco Banestes S.A	28127603
+246	Banco Abc Brasil S.A	28195667
+751	Scotiabank Brasil	29030467
+208	Banco Btg Pactual S.A	30306294
+746	Banco Modal S.A	30723886
+241	Banco Classico S.A	31597552
+612	Banco Guanabara S.A	31880826
+604	Banco Industrial Do Brasil S.A	31895683
+505	Banco Credit Suisse (Brl) S.A	32062580
+196	Banco Fair Cc S.A	32648370
+300	Banco La Nacion Argentina	33042151
+477	Citibank N.A	33042953
+266	Banco Cedula S.A	33132044
+122	Banco Bradesco Berj S.A	33147315
+376	Banco J.P. Morgan S.A	33172537
+473	Banco Caixa Geral Brasil S.A	33466988
+745	Banco Citibank S.A	33479023
+120	Banco Rodobens S.A	33603457
+265	Banco Fator S.A	33644196
+7	Bndes (Banco Nacional Do Desenvolvimento Social)	33657248
+188	Ativa S.A Investimentos	33775974
+134	Bgc Liquidez Dtvm Ltda	33862244
+641	Banco Alvorada S.A	33870163
+29	Banco Itaú Consignado S.A	33885724
+243	Banco Máxima S.A	33923798
+78	Haitong Bi Do Brasil S.A	34111187
+111	Banco Oliveira Trust Dtvm S.A	36113876
+17	Bny Mellon Banco S.A	42272526
+174	Pernambucanas Financ S.A	43180355
+495	La Provincia Buenos Aires Banco	44189447
+125	Brasil Plural S.A Banco	45246410
+488	Jpmorgan Chase Bank	46518205
+65	Banco Andbank S.A	48795256
+492	Ing Bank N.V	49336860
+250	Banco Bcv	50585090
+145	Levycam Ccv Ltda	50579044
+494	Banco Rep Oriental Uruguay	51938876
+253	Bexs Cc S.A	52937216
+269	Hsbc Banco De Investimento	53518684
+213	Bco Arbi S.A	54403563
+139	Intesa Sanpaolo Brasil S.A	55230916
+18	Banco Tricury S.A	57839805
+630	Banco Intercap S.A	58497702
+224	Banco Fibra S.A	58616418
+600	Banco Luso Brasileiro S.A	59118133
+623	Banco Pan	59285411
+204	Banco Bradesco Cartoes S.A	59438325
+479	Banco Itaubank S.A	60394079
+456	Banco Mufg Brasil S.A	60498557
+464	Banco Sumitomo Mitsui Brasil S.A	60518222
+613	Omni Banco S.A	60850229
+652	Itaú Unibanco Holding Bm S.A	60872504
+653	Banco Indusval S.A	61024352
+69	Banco Crefisa S.A	61033106
+370	Banco Mizuho S.A	61088183
+249	Banco Investcred Unibanco S.A	61182408
+318	Banco Bmg S.A	61186680
+626	Banco Ficsa S.A	61348538
+270	Sagitur Cc Ltda	61444949
+366	Banco Societe Generale Brasil	61533584
+113	Magliano S.A	61723847
+131	Tullett Prebon Brasil Cvc Ltda	61747085
+11	C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)	61809182
+611	Banco Paulista	61820817
+755	Bofa Merrill Lynch Bm S.A	62073200
+89	Ccr Reg Mogiana	62109566
+643	Banco Pine S.A	62144175
+140	Easynvest – Título Cv S.A	62169875
+707	Banco Daycoval S.A	62232889
+288	Carol Dtvm Ltda	62237649
+101	Renascenca Dtvm Ltda	62287735
+487	Deutsche Bank S.A Banco Alemão	62331228
+233	Banco Cifra	62421979
+177	Guide	65913436
+633	Banco Rendimento S.A	68900810
+218	Banco Bs2 S.A	71027866
+292	Bs2 Distribuidora De Títulos E Investimentos	28650236
+169	Banco Olé Bonsucesso Consignado S.A	71371686
+293	Lastro Rdv Dtvm Ltda	71590442
+285	Frente Cc Ltda	71677850
+80	B&T Cc Ltda	73622748
+753	Novo Banco Continental S.A Bm	74828799
+222	Banco Crédit Agricole Br S.A	75647891
+754	Banco Sistema	76543115
+98	Credialiança Ccr	78157146
+610	Banco Vr S.A	78626983
+712	Banco Ourinvest S.A	78632767
+10	Credicoamo	81723108
+283	Rb Capital Investimentos Dtvm Ltda	89960090
+217	Banco John Deere S.A	91884981
+117	Advanced Cc Ltda	92856905
+336	Banco C6 S.A – C6 Bank	28326000
+654	Banco A.J. Renner S.A	
+92874270

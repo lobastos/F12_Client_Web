@@ -7,6 +7,10 @@ import Funcionarios from '@/pages/funcionarios/funcionario.grid.vue'
 import FuncionariosForm from '@/pages/funcionarios/funcionario.form.vue'
 import NotFound from '@/pages/not-found/index.vue'
 
+
+
+
+
 Vue.use(Router)
 
 const routes = [
@@ -17,6 +21,10 @@ const routes = [
 
     { path: '/funcionarios', name: 'funcionarios', component: Funcionarios },
     { path: '/funcionarios/cadastro', name: 'funcionariocadastro', component: FuncionariosForm },
+    
+    
+    
+
 ]
 
 const router = new Router({ mode: 'history', routes })
